@@ -6,4 +6,4 @@ This repository contains the material needed to perform the TD on the simulation
 
 **Tasks:** 
 1. Fill the jupyter notebook. This can be done online thanks, for instance, to [Google Colab](https://colab.research.google.com/github/thibaut-hirschler/UTBM-CP55-TDsimu1/blob/main/td1.ipynb) or [Deepnote](https://deepnote.com/),
-2. Perform a numerical homogenization of a lattice unit cell with Abaqus and the [Micromechanics plugin](https://info.simuleon.com/blog/multiscale-modelling-of-a-concrete-steel-composite-using-the-abaqus-rve-micromechanics-plugin).
+2. Perform a numerical homogenization of a lattice unit cell with Abaqus and the [Micromechanics plugin](https://kb.dsxclient.3ds.com/mashup-ui/page/resultqa?from=search%3fq%3dmicromechanics&id=QA00000046185e&q=micromechanics#).
